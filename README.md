@@ -16,7 +16,7 @@ ttf-jetbrains-mono-nerd
 ```
 Recommended install (backup first, this overwrites your existing dotfiles)
 ```bash
-git clone https://github.com/zyro-or-xyro/coreshell
+git clone https://github.com/zyro-or-xyro/coreshell-mangowc 
 cd .config
 rm -rf btop kitty labwc waybar wofi fastfetch matugen nwg-bar waypaper
 cd ~/coreshell-mangowc/dotfiles
