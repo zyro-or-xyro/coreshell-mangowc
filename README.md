@@ -1,5 +1,5 @@
-# coreshell
-An simple and lightweight dotfile for Niri Arch-based GNU/Linux distributions
+# coreshell-mangowc
+An simple and lightweight dotfile for mangoWC Arch-based GNU/Linux distributions
 
 DEPS:
 ```txt
@@ -8,6 +8,7 @@ awww
 eza
 fastfetch
 waybar
+mangowc (aur)
 nwg-bar
 waypaper
 wofi
